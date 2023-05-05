@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\bin\Debug\client.exe.config
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\bin\Debug\client.exe
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\bin\Debug\client.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.Client.resources
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.exe
+C:\Users\ADMIN\Documents\lập trình mạng\code\ứng dụng lấy ngày giờ hệ thống\client\obj\Debug\client.pdb

@@ -1,0 +1,68 @@
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatClient\obj\Debug\net6.0-windows\ChatClient.ChatForm.resources
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\bin\Debug\net6.0-windows\ChatClient.exe
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\bin\Debug\net6.0-windows\ChatClient.deps.json
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\bin\Debug\net6.0-windows\ChatClient.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\bin\Debug\net6.0-windows\ChatClient.pdb
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.ChatForm.resources
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.GenerateResource.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\refint\ChatClient.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.pdb
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatClient\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.ChatForm.resources
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatClient\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.ChatForm.resources
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatClient\obj\Debug\net6.0-windows\ref\ChatClient.dll

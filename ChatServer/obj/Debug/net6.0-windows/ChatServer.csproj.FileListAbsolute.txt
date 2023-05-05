@@ -1,0 +1,68 @@
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.ChatForm.resources
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\kitakeyos\source\repos\ChatRealtime\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.ChatForm.resources
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+D:\Hphuong\Lap tring mang\Ref. Code\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.ChatForm.resources
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\lập trình mạng\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.ChatForm.resources
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\lập trình mạng\code\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
